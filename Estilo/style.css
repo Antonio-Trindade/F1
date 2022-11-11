@@ -32,7 +32,7 @@ header nav#menu a {
     
 }
 
-header ul>a:hover{
+header nav#menu a:hover{
     background-color:#32f21db2 ;
     transition: 1s;
 }
