@@ -18,6 +18,7 @@ header img#Logo{
     
 }
 
+
 header nav#menu a {
     text-decoration: none;
     border: 1px solid white;
@@ -32,20 +33,24 @@ header nav#menu a {
     
 }
 
+
 header nav#menu a:hover{
     background-color:#32f21db2 ;
     transition: 1s;
 }
+
 
 header ul {
     padding-left: 50%;
 }
 
 
+
 /*--------------------------------CORPO--------------------------------------------*/
 main {
     width: 80%;
     margin: auto;
+    height: 1600px;
     padding-bottom: 10px;
     border: black solid;
     
@@ -58,9 +63,18 @@ section#txt{
     font-size: 50px;
     color: #15660C;
     position: relative;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+    margin:30px;
 }
 
 
+section#videoF1{
+    display: block;
+    
+    
+  
+
+}
 
 
 section#fotos{
@@ -71,6 +85,7 @@ section#fotos{
     border-radius: 5%;
     width: 71%;
     border: 1px solid black;
+    margin-top: 450px;
     
     
   
